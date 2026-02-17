@@ -6,6 +6,6 @@ El sistema ERP interactúa con usuarios internos como el Administrador de Compra
 
 ## Diagrama de Contexto (C1)
 
-![Diagrama de Contexto](./images/c1_context.png)
+Imagen_C1
 
 El diagrama muestra el sistema ERP como una entidad central que recibe solicitudes de los usuarios internos y envía información al sistema contable externo.
