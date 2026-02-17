@@ -1,5 +1,3 @@
-# 10. Glossary
-
 ## Producto
 Bien o servicio adquirido por la empresa y registrado en el sistema.
 
