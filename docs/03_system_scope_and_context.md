@@ -1,5 +1,3 @@
-# 3. System Scope and Context
-
 ## Descripción General
 
 El sistema ERP interactúa con usuarios internos como el Administrador de Compras y el Gerente General. Además, se integra con un sistema contable externo para el envío de información financiera.
