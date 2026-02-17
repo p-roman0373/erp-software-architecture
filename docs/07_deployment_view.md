@@ -1,5 +1,3 @@
-# 7. Deployment View
-
 El sistema puede desplegarse en un servidor en la nube.
 
 ## Arquitectura de Despliegue Propuesta
