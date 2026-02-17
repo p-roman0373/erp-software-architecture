@@ -12,4 +12,3 @@ Este escenario describe el flujo cuando un administrador registra un nuevo produ
 4. Si los datos son correctos, se almacenan en la base de datos.
 5. La API responde con confirmación de creación.
 6. La interfaz muestra mensaje de éxito al usuario.
-7. 
