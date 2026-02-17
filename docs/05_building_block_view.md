@@ -12,7 +12,3 @@ Contiene la lógica de negocio, validaciones y procesamiento de datos.
 
 ### Base de Datos (PostgreSQL)
 Almacena la información estructurada del sistema, incluyendo productos, proveedores y órdenes de compra.
-
-## Diagrama de Contenedores (C2)
-
-Imagen_C2
