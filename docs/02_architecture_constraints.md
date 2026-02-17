@@ -1,5 +1,3 @@
-# 2. Architecture Constraints
-
 ## Decisiones Tecnológicas
 
 - Backend desarrollado en Java utilizando Spring Boot.
