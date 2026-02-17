@@ -1,5 +1,3 @@
-# 6. Runtime View
-
 ## Escenario: Registrar un Producto
 
 Este escenario describe el flujo cuando un administrador registra un nuevo producto en el sistema.
