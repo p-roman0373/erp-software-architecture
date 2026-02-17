@@ -1,5 +1,3 @@
-# 5. Building Block View
-
 ## Descripción de Contenedores
 
 El sistema ERP está compuesto por los siguientes contenedores principales:
