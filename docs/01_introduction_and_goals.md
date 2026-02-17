@@ -1,5 +1,3 @@
-# 1. Introduction and Goals
-
 ## Objetivo del Sistema ERP
 
 El sistema ERP tiene como objetivo integrar y centralizar los procesos empresariales en una única plataforma tecnológica, permitiendo una gestión eficiente de compras, facturación, inventario, activos, empleados y reportes estratégicos.
